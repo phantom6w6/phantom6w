@@ -9,7 +9,6 @@
 - 🤔 I'm intesested in both procedural languages(C, Bash, Python) and object oriented languages(C++, Java).
 - ⚡ My current ongoing projects are: Whatsapp Bot, Voice assistant, AI Chatbot
 
-
 <br>
 <br>
 
@@ -20,6 +19,19 @@
 <br>
 <br>
 <br>
+
+
+# My Repositories:
+
+-   [Akeno Whastapp Bot](https://github.com/FantoX001/Akeno-Whatsapp-Bot) 
+
+-   [Akeno Guides](https://github.com/FantoX001/Akeno-Guides)
+
+-   [Password Generator](https://github.com/FantoX001/Password-Generator)
+<br>
+<br>
+
+
 # 📫 How to reach me:
 [![My WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918101187835)
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Ftx00) <br>
