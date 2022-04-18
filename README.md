@@ -14,7 +14,7 @@
 
 # My Github Status:
 
-<br>
+![Github Badges](https://github-readme-stats.vercel.app/api?username=FantoX001&show_icons=true&theme=orange)<br>
 ![My Profile Views](https://gpvc.arturio.dev/FantoX001)
 <br>
 <br>
