@@ -23,7 +23,9 @@
 
 # My Repositories:
 
--   [Akeno Whastapp Bot](https://github.com/FantoX001/Akeno-Whatsapp-Bot) 
+-   [Akeno WhatsApp Bot](https://github.com/FantoX001/Akeno-Whatsapp-Bot) 
+
+-   [Akeno WhatsApp Bot Updated Version](https://github.com/FantoX001/Akeno)
 
 -   [Akeno Guides](https://github.com/FantoX001/Akeno-Guides)
 
