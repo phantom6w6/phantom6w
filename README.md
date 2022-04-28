@@ -23,6 +23,11 @@
 
 # My Repositories:
 
+
+-   [Zero Two WhatsApp Bot](https://github.com/FantoX001/Zero-Two)
+
+-   [Zero Two Deploy//Hosting Guides](https://github.com/FantoX001/Zero-Two-Guides)
+
 -   [Akeno WhatsApp Bot](https://github.com/FantoX001/Akeno-Whatsapp-Bot) 
 
 -   [Akeno WhatsApp Bot Updated Version](https://github.com/FantoX001/Akeno)
@@ -30,6 +35,7 @@
 -   [Akeno Guides](https://github.com/FantoX001/Akeno-Guides)
 
 -   [Password Generator](https://github.com/FantoX001/Password-Generator)
+<br>
 <br>
 <br>
 
