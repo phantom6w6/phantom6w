@@ -26,7 +26,7 @@
 
 -   [Zero Two WhatsApp Bot](https://github.com/FantoX001/Zero-Two)
 
--   [Zero Two Deploy//Hosting Guides](https://github.com/FantoX001/Zero-Two-Guides)
+-   [Zero Two Deploy/Hosting Guides](https://github.com/FantoX001/Zero-Two-Guides)
 
 -   [Akeno WhatsApp Bot](https://github.com/FantoX001/Akeno-Whatsapp-Bot) 
 
