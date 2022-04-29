@@ -31,7 +31,7 @@
 
 -   [Akeno WhatsApp Bot](https://github.com/FantoX001/Akeno-Whatsapp-Bot) 
 
--   [Akeno WhatsApp Bot Updated Version](https://github.com/FantoX001/Akeno)
+-   [Akeno WhatsApp Bot [ V-2.0 ]](https://github.com/FantoX001/Akeno)
 
 -   [Akeno Guides](https://github.com/FantoX001/Akeno-Guides)
 
