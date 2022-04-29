@@ -15,7 +15,7 @@
 # My Github Status:
 
 ![Github Badges](https://github-readme-stats.vercel.app/api?username=FantoX001&show_icons=true&theme=vision-friendly-dark)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FantoX001&repo=github-readme-stats)](https://github.com/FantoX001/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FantoX001&layout=compact)](https://github.com/FantoX001/github-readme-stats)<br>
 ![My Profile Views](https://gpvc.arturio.dev/FantoX001)
 <br>
 <br>
