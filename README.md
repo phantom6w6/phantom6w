@@ -14,6 +14,14 @@
 
 # My Github Status:
 
+<br>
+My Trophies:
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=FantoX001)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
 ![Github Badges](https://github-readme-stats.vercel.app/api?username=FantoX001&show_icons=true&theme=vision-friendly-dark)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FantoX001&layout=compact)](https://github.com/FantoX001/github-readme-stats)<br>
 ![My Profile Views](https://gpvc.arturio.dev/FantoX001)
