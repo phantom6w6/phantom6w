@@ -32,6 +32,7 @@ My Trophies:
 
 # My Repositories:
 
+-   [Shikimori MD BOT](https://github.com/FantoX001/Shikimori)
 
 -   [Zero Two WhatsApp Bot](https://github.com/FantoX001/Zero-Two)
 
