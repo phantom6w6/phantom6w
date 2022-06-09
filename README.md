@@ -1,4 +1,4 @@
-# Hi Bro i am Fantox. Nice to meet ya!   <img src="https://c.tenor.com/y9nm4uVkjUIAAAAi/cute.gif" width="2px">
+# Hi Bro i am Fantox. Nice to meet ya!  
 
 
 <a href="https://t.me/Ftx00"><img align='centre' src='https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif' width='200"'> </a>
@@ -55,6 +55,5 @@ My Trophies:
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Ftx00) <br>
 
 
-#### If you have any queries or suggestions then you can contact me i will be happy to respond. <img src="https://c.tenor.com/y9nm4uVkjUIAAAAi/cute.gif" width="20px">
-#### Regards: Fantox
+#### If you have any queries or suggestions then you can contact me i will be happy to respond. 
 <br>
