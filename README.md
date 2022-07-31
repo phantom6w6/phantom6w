@@ -1,16 +1,32 @@
-# Hi Bro i am Fantox. Nice to meet ya!  
+<p align="center">
+   <a href="https://github.com/FantoX001/Miku-MD">
+    <img src="https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif" width="350"> </a>
+    </p>
+
+<h1 align="center"> Hi Bro i am Fantox. Nice to meet ya!
+</h1>
 
 
-<a href="https://t.me/Ftx00"><img align='centre' src='https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif' width='200"'> </a>
-
-### My about:
+# My about:
 - 🔭 I’m currently a student.
 - 🌱 I’m currently learning AI and Machine Learning for my own interest. 
 - 🤔 I'm intesested in both procedural languages(C, Bash, Python) and object oriented languages(C++, Java).
 - ⚡ My current ongoing projects are: Whatsapp Bot, Voice assistant and AI Chatbot.
+- ⚡ Currently working on WhatsApp Bots.
 
 <br>
 <br>
+
+## My best Project:
+- [Miku Bot (Multi Device)](https://github.com/FantoX001/Miku-MD)
+<p align="center">
+   <a href="https://github.com/FantoX001/Miku-MD">
+    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="610">  
+</p>
+
+<h1 align="center"> Miku Nakano (Multi Device)
+</h1>
+<br><br><br>
 
 # My Github Status:
 
