@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/FantoX001/Miku-MD">
-    <img src="https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif" width="350"> </a>
+    <img src="https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif" width="320"> </a>
     </p>
 
 <h1 align="center"> Hi Bro i am Fantox. Nice to meet ya!
@@ -21,7 +21,7 @@
 - [Miku Bot (Multi Device)](https://github.com/FantoX001/Miku-MD)
 <p align="center">
    <a href="https://github.com/FantoX001/Miku-MD">
-    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="610">  
+    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="530">  
 </p>
 
 <h1 align="center"> Miku Nakano (Multi Device)
