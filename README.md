@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/FantoX001/Miku-MD">
-    <img src="https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif" width="320"> </a>
+    <img src="https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif" width="300"> </a>
     </p>
 
 <h1 align="center"> Hi Bro i am Fantox. Nice to meet ya!
@@ -17,15 +17,15 @@
 <br>
 <br>
 
-## My best Project:
+# My Recent Project:
 - [Miku Bot (Multi Device)](https://github.com/FantoX001/Miku-MD)
 <p align="center">
    <a href="https://github.com/FantoX001/Miku-MD">
-    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="530">  
+    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="500">  
 </p>
 
-<h1 align="center"> Miku Nakano (Multi Device)
-</h1>
+<h3 align="center"> Miku Nakano (Multi Device) WhatsApp Bot.
+</h3>
 <br><br><br>
 
 # My Github Status:
@@ -44,10 +44,19 @@
 ![My Profile Views](https://gpvc.arturio.dev/FantoX001)
 <br>
 <br>
+
+<h2 align="center"> Running and improvig myself day by day...
+</h2>
+
+<p align="center">
+   <a href="https://github.com/FantoX001">
+    <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="800"> </a>
+    </p>
 <br>
 
+# My Popular Repositories:
 
-# My Repositories:
+-   [Miku Bot MD](https://github.com/FantoX001/Miku-MD)
 
 -   [Shikimori Bot](https://github.com/FantoX001/Shikimori)
 
