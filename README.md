@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/FantoX001/Miku-MD">
-    <img src="https://telegra.ph/file/b81cfddc613538af66aa9.jpg" width="900"> </a>
+    <img src="https://telegra.ph/file/b81cfddc613538af66aa9.jpg" width="800"> </a>
     </p>
 
 <h1 align="center"> Hi Bro i am Fantox. Nice to meet ya!
