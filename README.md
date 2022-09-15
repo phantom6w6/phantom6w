@@ -3,8 +3,16 @@
     <img src="https://telegra.ph/file/b81cfddc613538af66aa9.jpg" width="800"> </a>
     </p>
 
-<h1 align="center"> Hi Bro i am Fantox. Nice to meet ya!
-</h1>
+
+<div align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+Bro+i+am+Fantox;Nice+to+meet+ya!"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
+
 
 
 # My about:
