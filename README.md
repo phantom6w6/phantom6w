@@ -46,9 +46,11 @@
 <br>
 
 ![Github Badges](https://github-readme-stats.vercel.app/api?username=FantoX001&show_icons=true&theme=vision-friendly-dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FantoX001&theme=highcontrast)](https://git.io/streak-stats)
+
 <br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FantoX001&layout=compact)](https://github.com/FantoX001/github-readme-stats)<br>
+
 ![My Profile Views](https://gpvc.arturio.dev/FantoX001)
 <br>
 <br>
