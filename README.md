@@ -47,7 +47,7 @@
 
 ![Github Badges](https://github-readme-stats.vercel.app/api?username=FantoX001&show_icons=true&theme=vision-friendly-dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FantoX001&theme=highcontrast)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=FantoX001&theme=highcontrast)
 
 <br>
 
