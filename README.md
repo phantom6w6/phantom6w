@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning AI and Machine Learning for my own interest. 
 - 🤔 I'm intesested in both procedural languages(C, Bash) and object oriented language(Java, Python).
 - ⚡ My current ongoing projects are: Whatsapp Bot, Voice assistant and AI Chatbot.
-- ⚡ Currently working on with [Arus-Bots](https://github.com/Arus-Bots)
+- ⚡ Currently working on Eternity Bot with [Eternity-Bots](https://github.com/Arus-Bots)
 
 <br>
 <br>
